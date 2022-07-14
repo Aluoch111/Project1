@@ -18,6 +18,9 @@ li{
     display: inline;
     padding: 10px;
 }
+ol{
+    list-style-type: square;
+}
 button{
     background-color: rgb(29, 29, 228);
     border-color: rgb(29, 29, 228);

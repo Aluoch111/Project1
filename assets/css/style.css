@@ -1,0 +1,15 @@
+header{
+    font-style: italic;
+    font-weight: 600;
+    font-size: medium;
+    display: inline;
+    margin-right:25px;
+}
+ul{
+   list-style-type: none;
+   margin-right: 20px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}

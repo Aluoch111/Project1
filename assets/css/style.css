@@ -40,3 +40,40 @@ h1{
 p{
     font-size: medium;
 }
+h2{
+    color: #2549D3;
+}
+#search{
+    display: flex;
+    justify-content:space-between ;
+    box-shadow: 5px 5px rgb(208, 221, 238);
+    padding: 5px;
+}
+strong{
+    color: blue;
+    font-size: small;
+}
+small{
+    display: block;
+    font-size: smaller;
+}
+
+#work{
+    text-align: center;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+#column{
+    box-shadow: 5px 5px 2px rgb(230, 224, 224);
+    padding-left: 50px;
+    text-align: center;
+}
+h5{
+    font-size: small;
+}
+p{
+    font-size: smaller;
+}

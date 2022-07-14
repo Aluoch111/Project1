@@ -31,6 +31,7 @@ button{
 #cover{
     height: 300px;
     float: right;
+    margin-left: 5px;
 }
 h1{
     color: #2549D3;
